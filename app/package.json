@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "User Info Demo App",
+  "main": "index.html",
+  "scripts": {
+    "test": "node node_modules/@sap/approuter/approuter.js"
+  },
+  "author": "Tom Ruloff",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/approuter": "^11.3.1"
+  }
+}
